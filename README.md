@@ -3,7 +3,7 @@
 ### H8mini Blue board version###
 
 # WORK IN PROGRESS
-I try convert H8 board to brushless FS using cheep 1S ESC from AliExpress
+I try convert H8 board to brushless FC using cheep 1S ESC from AliExpress
 First working example done, need test before publish
 
 WARNING NOT STABLE AS IS
